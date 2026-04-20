@@ -1,4 +1,4 @@
-module github.com/hashicorp/hc-install
+module github.com/magosproject/hc-install
 
 go 1.25.8
 
