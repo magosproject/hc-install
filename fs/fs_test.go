@@ -8,11 +8,11 @@ import (
 	"os"
 	"testing"
 
-	"github.com/hashicorp/go-version"
-	"github.com/hashicorp/hc-install/internal/testutil"
-	"github.com/hashicorp/hc-install/product"
-	"github.com/hashicorp/hc-install/releases"
-	"github.com/hashicorp/hc-install/src"
+	"github.com/magosproject/go-version"
+	"github.com/magosproject/hc-install/internal/testutil"
+	"github.com/magosproject/hc-install/product"
+	"github.com/magosproject/hc-install/releases"
+	"github.com/magosproject/hc-install/src"
 )
 
 var (

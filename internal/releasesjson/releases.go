@@ -13,8 +13,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/hashicorp/go-version"
-	"github.com/hashicorp/hc-install/internal/httpclient"
+	"github.com/magosproject/go-version"
+	"github.com/magosproject/hc-install/internal/httpclient"
 )
 
 const defaultBaseURL = "https://releases.hashicorp.com"

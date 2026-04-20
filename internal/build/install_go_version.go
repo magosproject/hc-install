@@ -10,7 +10,7 @@ import (
 	"os/exec"
 	"strings"
 
-	"github.com/hashicorp/go-version"
+	"github.com/magosproject/go-version"
 )
 
 var v1_21 = version.Must(version.NewVersion("1.21"))

@@ -9,9 +9,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/hashicorp/hc-install/errors"
-	"github.com/hashicorp/hc-install/internal/testutil"
-	"github.com/hashicorp/hc-install/product"
+	"github.com/magosproject/hc-install/errors"
+	"github.com/magosproject/hc-install/internal/testutil"
+	"github.com/magosproject/hc-install/product"
 )
 
 func TestAnyVersion_executable(t *testing.T) {

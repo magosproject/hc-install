@@ -7,7 +7,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/hashicorp/go-version"
+	"github.com/magosproject/go-version"
 )
 
 // GoIsInstalled represents a checker of whether Go is installed locally

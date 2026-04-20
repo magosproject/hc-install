@@ -13,7 +13,7 @@ import (
 	"os/exec"
 	"path/filepath"
 
-	"github.com/hashicorp/go-version"
+	"github.com/magosproject/go-version"
 	"golang.org/x/mod/modfile"
 )
 

@@ -3,7 +3,7 @@
 
 package releasesjson
 
-import "github.com/hashicorp/go-version"
+import "github.com/magosproject/go-version"
 
 // ProductVersion is a wrapper around a particular product version like
 // "consul 0.5.1". A ProductVersion may have one or more builds.

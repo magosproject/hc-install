@@ -7,13 +7,13 @@ import (
 	"context"
 	"log"
 
-	"github.com/hashicorp/go-version"
-	install "github.com/hashicorp/hc-install"
-	"github.com/hashicorp/hc-install/build"
-	"github.com/hashicorp/hc-install/fs"
-	"github.com/hashicorp/hc-install/product"
-	"github.com/hashicorp/hc-install/releases"
-	"github.com/hashicorp/hc-install/src"
+	"github.com/magosproject/go-version"
+	install "github.com/magosproject/hc-install"
+	"github.com/magosproject/hc-install/build"
+	"github.com/magosproject/hc-install/fs"
+	"github.com/magosproject/hc-install/product"
+	"github.com/magosproject/hc-install/releases"
+	"github.com/magosproject/hc-install/src"
 )
 
 // Installation of a single exact version

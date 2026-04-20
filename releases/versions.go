@@ -9,11 +9,11 @@ import (
 	"sort"
 	"time"
 
-	"github.com/hashicorp/go-version"
-	rjson "github.com/hashicorp/hc-install/internal/releasesjson"
-	"github.com/hashicorp/hc-install/internal/validators"
-	"github.com/hashicorp/hc-install/product"
-	"github.com/hashicorp/hc-install/src"
+	"github.com/magosproject/go-version"
+	rjson "github.com/magosproject/hc-install/internal/releasesjson"
+	"github.com/magosproject/hc-install/internal/validators"
+	"github.com/magosproject/hc-install/product"
+	"github.com/magosproject/hc-install/src"
 )
 
 // Versions allows listing all versions of a product

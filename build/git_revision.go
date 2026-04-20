@@ -14,9 +14,9 @@ import (
 
 	"github.com/go-git/go-git/v5"
 	"github.com/go-git/go-git/v5/plumbing"
-	isrc "github.com/hashicorp/hc-install/internal/src"
-	"github.com/hashicorp/hc-install/internal/validators"
-	"github.com/hashicorp/hc-install/product"
+	isrc "github.com/magosproject/hc-install/internal/src"
+	"github.com/magosproject/hc-install/internal/validators"
+	"github.com/magosproject/hc-install/product"
 )
 
 var (

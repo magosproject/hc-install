@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/hashicorp/go-version"
+	"github.com/magosproject/go-version"
 )
 
 // GetGoVersion obtains version of locally installed Go via "go version"

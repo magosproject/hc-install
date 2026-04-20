@@ -7,7 +7,7 @@ import (
 	_ "embed"
 	"strings"
 
-	"github.com/hashicorp/go-version"
+	"github.com/magosproject/go-version"
 )
 
 //go:embed VERSION

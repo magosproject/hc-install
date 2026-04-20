@@ -10,11 +10,11 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/hashicorp/go-version"
-	"github.com/hashicorp/hc-install/errors"
-	"github.com/hashicorp/hc-install/internal/src"
-	"github.com/hashicorp/hc-install/internal/validators"
-	"github.com/hashicorp/hc-install/product"
+	"github.com/magosproject/go-version"
+	"github.com/magosproject/hc-install/errors"
+	"github.com/magosproject/hc-install/internal/src"
+	"github.com/magosproject/hc-install/internal/validators"
+	"github.com/magosproject/hc-install/product"
 )
 
 // ExactVersion finds the first executable binary of the product name
